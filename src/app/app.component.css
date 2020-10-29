@@ -1,0 +1,11 @@
+section{
+
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.size{
+    margin-top: 0em;
+    margin-bottom: 0em;
+}
